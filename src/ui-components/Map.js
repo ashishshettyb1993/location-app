@@ -15,6 +15,7 @@ const navControlStyle = {
 };
 
 export function Map(props) {
+  //default style and Japan styles are added to my mapbox account
   const { defaultMapStyle = MapStyle.Japan, data=[], selectedTrip } = props;
 
   const [viewport, setViewport] = useState({
