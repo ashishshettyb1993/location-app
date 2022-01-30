@@ -27,6 +27,8 @@ export function Map(props) {
 
   const [selectedTripData, setSelectedTripData] = useState(null);
 
+  //this useEffect is update new viewport data
+  //this can also be done using a callback func and then call when table rows are clicked
   useEffect(
     () => {
       if (selectedTrip) {
