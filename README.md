@@ -11,7 +11,7 @@
 # To run the storybook for Map and Table Components
 
 # Functions included:
-- Map that diaplays coordinates and a Table which containd location data
+- Map that diaplays coordinates and a Table which contains location data
 - Table rows can be selected and location will be displayed accordingly
 - Dropdownlist to filter based on types(holiday, school and business)
 - Table values are sorted by name.
