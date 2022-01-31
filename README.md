@@ -4,11 +4,11 @@
 
 ### `npm start`
 
-# to run the application
+# To run the application
 
  ### `npm run storybook`
 
-# to run the storybook for Map and Table Components
+# To run the storybook for Map and Table Components
 
 # Functions included:
 - Map that diaplays coordinates and a Table which containd location data
